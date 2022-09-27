@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and Backend Development**
 
-- 💬 Ask me about **Mathematics and Competitive Programming**
+- 💬 Ask me about **DSA and Competitive Programming**
 
 - 📫 How to reach me **chiragsrivastava4711@gmail.com**
 
