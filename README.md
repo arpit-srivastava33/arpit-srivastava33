@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Backend Development**
 
-- 💬 Ask me about **MERN and Competitive Programming**
+- 💬 Ask me about **DSA,Competitive Programming and JavaScript**
 
 - 📫 How to reach me **chiragsrivastava4711@gmail.com**
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit-srivastava33&show_icons=true&locale=en" alt="arpit-srivastava33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-srivastava33&" alt="arpit-srivastava33" /></p>
+
+[![Arpit's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arpit_21&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
