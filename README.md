@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arpit Srivastava</h1>
-<h3 align="center">A passionate MERN Stack developer || Competitive programmer from India</h3>
+<h1 align="center">Hello👋,I'm Arpit Srivastava</h1>
+<h3 align="center">A passionate MERN Stack developer | Java Backend Developer from India</h3>
 
 ![coding-freak](https://github.com/arpit-srivastava33/arpit-srivastava33/assets/87020158/67f9eda7-2cde-49f1-8123-933ec68a62a0)
 
